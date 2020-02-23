@@ -1,6 +1,9 @@
 <template>
   <b-container  class="container">
     <b-row>
+      <title>基本練習</title>
+      </b-row>
+    <b-row>
     <b-col><InsertShop   :ShopData="ShopData"/></b-col>
     <b-col>
       
